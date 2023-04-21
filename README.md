@@ -1,0 +1,3 @@
+-This exercise was a test in my ability to navigate through Github's website to create a repo, clone the repo, as well as use commands within our terminal to connect the server version to create my local version of the document. Utilizing terminal shortcuts such as "code ." or the "touch" command.
+
+-This current project is about creating a simple recipe website in order to learn more about our HTML basics. It will look more "brutalist" than current websites because at this stage we lack any CSS skills. This is a good reminder for skills we will have to use on the daily, utilizing Github,  setting up our own personal environment, and then utilizing VSCode to create new things.
